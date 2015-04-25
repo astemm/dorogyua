@@ -19,11 +19,6 @@ public class gPanel extends Panel
 {
 public gPanel()
 {
-//for (int i=0; i<250; i++)
-//{
-//int r = (int)(Math.random()*75);
-//v.add(new Point(i*2,150+r*-1));
-//}
 }
 //Image img=Toolkit.getDefaultToolkit().createImage("K:\\ua.jpg");
 //Graf1 gr=new Graf1();
