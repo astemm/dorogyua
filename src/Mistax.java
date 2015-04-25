@@ -64,6 +64,7 @@ edges.add(new Road(i++,g.mapp.get("Ternopil"),g.mapp.get("Khmelnyskyi")));
 edges.add(new Road(i++,g.mapp.get("Khmelnyskyi"),g.mapp.get("Zhytomyr")));
 edges.add(new Road(i++,g.mapp.get("Zhytomyr"),g.mapp.get("Kyiv")));
 edges.add(new Road(i++,g.mapp.get("Khmelnyskyi"),g.mapp.get("Vinnytsya")));
+edges.add(new Road(i++,g.mapp.get("Vinnytsya"),g.mapp.get("Zhytomyr")));
 edges.add(new Road(i++,g.mapp.get("Vinnytsya"),g.mapp.get("Kyiv")));
 edges.add(new Road(i++,g.mapp.get("Vinnytsya"),g.mapp.get("Cherkassy")));
 edges.add(new Road(i++,g.mapp.get("Vinnytsya"),g.mapp.get("Kirovograd")));
