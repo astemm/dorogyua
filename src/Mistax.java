@@ -10,7 +10,7 @@ static String fname;
 static List<Road> mst=new ArrayList<Road>();
 public void mista ()throws IOException { 
 try {   String fname;
-        fname = "D:\\ucities.txt";
+        //fname = "ucities.txt";
         FileReader fr = new FileReader(fname);
         BufferedReader in = new BufferedReader(fr);
         int i=1;
